@@ -1,0 +1,1 @@
+Utility fuction for version 1
